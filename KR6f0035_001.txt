@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:32.065353
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:57
 #+TITLE: 佛說太子刷護經
 #+PROPERTY: CBETA_ID T12n0343
 #+PROPERTY: ID KR6f0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 343
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0035_T_000-0153c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0035_T_001-0153c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.343[Nos.310(37),344]¶
-
- 《佛說太子刷護經》一卷¶
+No. 343 [Nos. 310(37), 344]¶
+《佛說太子刷護經》一卷¶
 ¶
 西晉三藏竺法護譯¶
 
@@ -126,8 +125,7 @@ No.343[Nos.310(37),344]¶
 
 太子復白佛言：「菩¶
 薩何因緣，多得財物珍寶有不離？何因緣¶
-不亡財物？不為人所劫盜？何因緣得尊者¶
-得高？」
+不亡財物？不為人所劫盜？何因緣得尊者得高？」
 
 佛告太子：「不貪他人財物者，用是故後¶
 生為人得富樂，憙布施不慳貪，用是故不亡¶
